@@ -40,6 +40,6 @@ Jarvis, et al. [Semi-automated assembly of high-quality diploid human reference 
 
 Rhie, et al. [Merqury: reference-free quality, completeness, and phasing assessment for genome assemblies](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02134-9). Genome Biology, 2020 
 
-McCartney et al., [Chasing perfection: validation and polishing strategies for telomere-to-telomere genome assemblies]((https://www.nature.com/articles/s41592-022-01440-3)). Nature Methods, 2022.
+McCartney et al., [Chasing perfection: validation and polishing strategies for telomere-to-telomere genome assemblies](https://www.nature.com/articles/s41592-022-01440-3). Nature Methods, 2022.
 
 
