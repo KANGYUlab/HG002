@@ -1,5 +1,5 @@
 # Sequencing Data
-The following is all the data used in this job, which come from part of [HG002](https://github.com/marbl/HG002/blob/main/Sequencing_data.md) and data 
+The following is all the data used in this job, which come from part of [HG002](https://github.com/marbl/HG002/blob/main/Sequencing_data.md) and data. 
 
 ## HiFi Data 
 [HiFi](https://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG002_NA24385_son/NIST_Illumina_2x250bps/)
@@ -22,4 +22,4 @@ mother:D3_S3_L001_R1_003.fastq.gz
 father:D2_S2_L001_R1_001.fastq.gz,D2_S2_L001_R1_002.fastq.gz,D2_S2_L001_R1_003.fastq.gz,D2_S2_L001_R1_004.fastq.gz
 
 # Hybrid Illimina/HiFi k-mer database
-A hybrid Illimina/HiFi database was generated from the above Illimina and HiFi sequencing data for quality estimation with the [code](https://github.com/KANGYUlab/HG002/blob/main/Merqury-qv.md)
+A hybrid Illimina/HiFi database was generated from the above Illimina and HiFi sequencing data for quality estimation with the [code](https://github.com/KANGYUlab/HG002/blob/main/Merqury-qv.md).
