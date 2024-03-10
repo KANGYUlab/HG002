@@ -20,7 +20,7 @@ Assembly FASTA files of HG002.k1([mat](https://s3.amazonaws.com/hg002.q80/mat.co
 
 Hybrid Hiseq/HiFi database of HG002 for quality estimation
 
-Sequencing dataset of HG002 released by GIAB can be found [here](https://github.com/KANGYUlab/HG002/blob/main/SequencingData.md).
+Sequencing dataset of HG002 and Hybrid Hiseq/HiFi database for quality estimation released by GIAB can be found [here](https://github.com/KANGYUlab/HG002/blob/main/SequencingData.md).
 
 ## Contact
 Please raise issues on this Github repository concerning access to this dataset. For any errors identified in the assembly itself, please raise issues on the associated [issues repository](https://github.com/KANGYUlab/HG002/issues).
