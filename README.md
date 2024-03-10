@@ -18,8 +18,6 @@ Assembly FASTA files of HG002.k1([mat](https://s3.amazonaws.com/hg002.q80/mat.co
 
 [Code for Merqury estimate](https://github.com/KANGYUlab/HG002/blob/main/Merqury-qv.md)
 
-Hybrid Hiseq/HiFi database of HG002 for quality estimation
-
 Sequencing dataset of HG002 and Hybrid Hiseq/HiFi database for quality estimation released by GIAB can be found [here](https://github.com/KANGYUlab/HG002/blob/main/SequencingData.md).
 
 ## Contact
