@@ -20,3 +20,5 @@ The following sequencing data was not used due to uncompression failure:
 mother:D3_S3_L001_R1_003.fastq.gz
 
 father:D2_S2_L001_R1_001.fastq.gz,D2_S2_L001_R1_002.fastq.gz,D2_S2_L001_R1_003.fastq.gz,D2_S2_L001_R1_004.fastq.gz
+
+## Hybrid Hiseq/HiFi database were generated from HiFi and Illimina sequencing data above for quality estimation 
